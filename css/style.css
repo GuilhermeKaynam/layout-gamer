@@ -25,10 +25,11 @@ padding: 14px 16px;
 text-decoration: none;
 }
 li a:hover {
-background-color: #111;
-text-decoration:underline;
+color: silver;
+text-decoration:none;
+
 }
-.active { background-color: #4CAF50; }
+
 * Conteudo principal */
 .flex-container {
 display: flex;
